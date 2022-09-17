@@ -1,1 +1,1 @@
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=futabario)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=futabario&show_icons=true&theme=radical)
