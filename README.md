@@ -13,6 +13,6 @@ I'm FutabaRio.
 
 
 ## Entertainment
-- Arknights (官服：FutabaRio)
+- Arknights (官服：FutabaRio#5271)
 
 ![FutabaRio's GitHub stats](https://github-readme-stats.vercel.app/api?username=futabario&show_icons=true&theme=radical)
